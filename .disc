@@ -1,2 +1,5 @@
+File.properties mode="dxrwxrwxrw";
+#!/env/bin/sh
+this.save(./bin/chmod .disc +x)
 .disc@*
-exec $shell run .boot &&  *mnt/cdrom/disk<=>dev\\net\\address="https://archive.org/download/screenshot-20231124-193138/TaZMAn%2020%20in%201%20Linux.iso"
+exec "https://archive.org/download/screenshot-20231124-193138/TaZMAn%2020%20in%201%20Linux.iso"
